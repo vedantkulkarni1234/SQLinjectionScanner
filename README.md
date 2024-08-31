@@ -1,5 +1,3 @@
-Here's a `README.md` file for your CLI tool that describes its features, setup, and usage:
-
 ---
 
 # SQL Injection Scanner Tool
@@ -25,8 +23,8 @@ This command-line interface (CLI) tool scans a provided website URL for URLs con
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/sql-injection-scanner.git
-   cd sql-injection-scanner
+   git clone https://github.com/vedantkulkarni1234/SQLinjectionScanner.git
+   cd SQLinjectionScanner
    ```
 
 2. **Install Dependencies**:
